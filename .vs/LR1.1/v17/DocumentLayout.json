@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LR1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EED1C7F-A36A-49F8-A690-2384991F0426}|LR1.1\\LR1.1.vcxproj|D:\\LR1.1\\LR1.1\\vyrib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EED1C7F-A36A-49F8-A690-2384991F0426}|LR1.1\\LR1.1.vcxproj|solutionrelative:LR1.1\\vyrib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EED1C7F-A36A-49F8-A690-2384991F0426}|LR1.1\\LR1.1.vcxproj|D:\\LR1.1\\LR1.1\\LR1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EED1C7F-A36A-49F8-A690-2384991F0426}|LR1.1\\LR1.1.vcxproj|solutionrelative:LR1.1\\LR1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EED1C7F-A36A-49F8-A690-2384991F0426}|LR1.1\\LR1.1.vcxproj|D:\\LR1.1\\LR1.1\\vyrib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EED1C7F-A36A-49F8-A690-2384991F0426}|LR1.1\\LR1.1.vcxproj|solutionrelative:LR1.1\\vyrib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LR1.1.cpp",
+              "DocumentMoniker": "D:\\LR1.1\\LR1.1\\LR1.1.cpp",
+              "RelativeDocumentMoniker": "LR1.1\\LR1.1.cpp",
+              "ToolTip": "D:\\LR1.1\\LR1.1\\LR1.1.cpp",
+              "RelativeToolTip": "LR1.1\\LR1.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T10:21:39.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vyrib.cpp",
+              "DocumentMoniker": "D:\\LR1.1\\LR1.1\\vyrib.cpp",
+              "RelativeDocumentMoniker": "LR1.1\\vyrib.cpp",
+              "ToolTip": "D:\\LR1.1\\LR1.1\\vyrib.cpp",
+              "RelativeToolTip": "LR1.1\\vyrib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T10:34:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vyrib.h",
+              "DocumentMoniker": "D:\\LR1.1\\LR1.1\\vyrib.h",
+              "RelativeDocumentMoniker": "LR1.1\\vyrib.h",
+              "ToolTip": "D:\\LR1.1\\LR1.1\\vyrib.h",
+              "RelativeToolTip": "LR1.1\\vyrib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-02T10:34:24.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
